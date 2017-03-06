@@ -6,7 +6,7 @@ my_phonebook={"Statue of Liberty":2125555555, "Ghostbusters":2125551234}
 ###
 #Assign the value of the Statue of Liberty's phone number to the variable, num
 ###
-
+num=my_phonebook["Statue of Liberty"]
 ###
 #Print the variable, num
 ###
